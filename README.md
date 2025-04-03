@@ -14,3 +14,4 @@ This certification signifies a solid understanding of MySQL database management,
 
 ## Data Analyst with Azure, AI & Co-Pilot - Grow Data Skills
 This certificate showcases expertise in data analysis using Microsoft Azure tools and AI technologies. It includes training on data processing, machine learning, and utilizing Azure Co-Pilot for enhanced data insights. The program prepares individuals to leverage cloud-based solutions for scalable and efficient data analytics.
+<img src="Certificate DA.jpg">
